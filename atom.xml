@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wangyiwen.cc/"/>
-  <updated>2016-06-26T03:29:32.000Z</updated>
+  <updated>2016-06-26T03:32:08.000Z</updated>
   <id>http://wangyiwen.cc/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://wangyiwen.cc/2016/06/26/sunset-and-tv/"/>
     <id>http://wangyiwen.cc/2016/06/26/sunset-and-tv/</id>
     <published>2016-06-26T03:23:09.000Z</published>
-    <updated>2016-06-26T03:29:32.000Z</updated>
+    <updated>2016-06-26T03:32:08.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;http://ww3.sinaimg.cn/mw690/7b73a0b1jw1f58gpywmo7j22io1w0kjl.jpg&quot; alt=&quot;sunset&quot; title=&quot;好美啊!&quot;&gt;&lt;/p&gt;
 &lt;center&gt;&lt;font color=&quot;#FF7F50&quot;&gt; 晚霞好美啊！&lt;/font&gt;&lt;/center&gt;
@@ -38,6 +38,8 @@
     </summary>
     
     
+      <category term="daughter" scheme="http://wangyiwen.cc/tags/daughter/"/>
+    
   </entry>
   
   <entry>
@@ -45,7 +47,7 @@
     <link href="http://wangyiwen.cc/2016/06/22/happyday-160622/"/>
     <id>http://wangyiwen.cc/2016/06/22/happyday-160622/</id>
     <published>2016-06-22T08:08:06.000Z</published>
-    <updated>2016-06-22T08:13:17.000Z</updated>
+    <updated>2016-06-26T03:31:36.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;http://ww2.sinaimg.cn/mw690/7b73a0b1gw1f5428116ckj20rt15oe81.jpg&quot; alt=&quot;hot&quot; title=&quot;太热了!&quot;&gt;&lt;/p&gt;
 &lt;center&gt;&lt;font color=&quot;#FF7F50&quot;&gt; 天气太热，还是先洗个澡吧！&lt;/font&gt;&lt;/center&gt;
@@ -62,6 +64,8 @@
     
     </summary>
     
+    
+      <category term="daughter" scheme="http://wangyiwen.cc/tags/daughter/"/>
     
   </entry>
   
