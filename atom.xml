@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wangyiwen.cc/"/>
-  <updated>2016-06-30T09:16:33.000Z</updated>
+  <updated>2016-07-08T04:56:12.000Z</updated>
   <id>http://wangyiwen.cc/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【视频】—本宝宝锻炼身体</title>
+    <link href="http://wangyiwen.cc/2016/07/08/baby-video/"/>
+    <id>http://wangyiwen.cc/2016/07/08/baby-video/</id>
+    <published>2016-07-08T04:17:53.000Z</published>
+    <updated>2016-07-08T04:56:12.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;video id=&quot;my_video_1&quot; class=&quot;video-js vjs-default-skin&quot; controls preload=&quot;auto&quot; width=&quot;640&quot; height=&quot;480&quot; data-setup=&quot;{}&quot;&gt;&lt;br&gt;    &lt;source src=&quot;http://dongen.pub:8081/video/baby.m4v&quot; type=&quot;video/x-m4v&quot;&gt;&lt;br&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;center&gt;&lt;font color=&quot;#FF7F50&quot;&gt;我很累的，呜呜…&lt;/font&gt;&lt;/center&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;video id=&quot;my_video_1&quot; class=&quot;video-js vjs-default-skin&quot; controls preload=&quot;auto&quot; width=&quot;640&quot; height=&quot;480&quot; data-setup=&quot;{}&quot;&gt;&lt;br&gt;    &lt;source
+    
+    </summary>
+    
+    
+      <category term="视频" scheme="http://wangyiwen.cc/tags/%E8%A7%86%E9%A2%91/"/>
+    
+  </entry>
   
   <entry>
     <title>爸爸的礼物</title>
