@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wangyiwen.cc/"/>
-  <updated>2016-07-08T06:51:15.000Z</updated>
+  <updated>2016-08-02T15:38:00.000Z</updated>
   <id>http://wangyiwen.cc/</id>
   
   <author>
@@ -16,11 +16,42 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>我100天啦！！！</title>
+    <link href="http://wangyiwen.cc/2016/08/02/100day/"/>
+    <id>http://wangyiwen.cc/2016/08/02/100day/</id>
+    <published>2016-08-02T15:28:37.000Z</published>
+    <updated>2016-08-02T15:38:00.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://ww4.sinaimg.cn/mw690/7b73a0b1jw1f6ftlwrvwnj21411hc4cx.jpg&quot; alt=&quot;&quot; title=&quot;美美的&quot;&gt;&lt;/p&gt;
+&lt;center&gt;&lt;font color=&quot;#FF7F50&quot;&gt; 爱美的我！&lt;/font&gt;&lt;/center&gt;
+
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&quot;http://ww1.sinaimg.cn/mw690/7b73a0b1jw1f6ftlwfj5pj21411hcn9s.jpg&quot; alt=&quot;&quot; title=&quot;美美的&quot;&gt;&lt;/p&gt;
+&lt;center&gt;&lt;font color=&quot;#FF7F50&quot;&gt; 看我笑的都没眼啦！&lt;/font&gt;&lt;/center&gt;
+
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&quot;http://ww2.sinaimg.cn/mw690/7b73a0b1jw1f6ftlvkwoxj21411hcgvd.jpg&quot; alt=&quot;&quot; title=&quot;美美的&quot;&gt;&lt;/p&gt;
+&lt;center&gt;&lt;font color=&quot;#FF7F50&quot;&gt; 我会站着啦（其实是姥姥在后面呢）！&lt;/font&gt;&lt;/center&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://ww4.sinaimg.cn/mw690/7b73a0b1jw1f6ftlwrvwnj21411hc4cx.jpg&quot; alt=&quot;&quot; title=&quot;美美的&quot;&gt;&lt;/p&gt;
+&lt;center&gt;&lt;font color=&quot;#FF7F50&quot;&gt; 爱美的我！&lt;
+    
+    </summary>
+    
+    
+      <category term="百天" scheme="http://wangyiwen.cc/tags/%E7%99%BE%E5%A4%A9/"/>
+    
+  </entry>
+  
+  <entry>
     <title>【视频】—本宝宝锻炼身体</title>
     <link href="http://wangyiwen.cc/2016/07/08/baby-video/"/>
     <id>http://wangyiwen.cc/2016/07/08/baby-video/</id>
     <published>2016-07-08T04:17:53.000Z</published>
-    <updated>2016-07-08T06:51:15.000Z</updated>
+    <updated>2016-07-14T02:43:25.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;video id=&quot;my_video_1&quot; class=&quot;video-js vjs-default-skin&quot; controls preload=&quot;auto&quot; width=&quot;100%&quot; height=&quot;100%&quot; data-setup=&quot;{}&quot;&gt;&lt;br&gt;    &lt;source src=&quot;http://dongen.pub:8081/video/baby.m4v&quot; type=&quot;video/x-m4v&quot;&gt;&lt;br&gt;&lt;/video&gt;&lt;/p&gt;
 &lt;center&gt;&lt;font color=&quot;#FF7F50&quot;&gt;我很累的，呜呜…&lt;/font&gt;&lt;/center&gt;
