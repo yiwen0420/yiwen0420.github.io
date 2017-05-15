@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wangyiwen.cc/"/>
-  <updated>2017-05-15T04:54:25.000Z</updated>
+  <updated>2017-05-15T07:21:52.000Z</updated>
   <id>http://wangyiwen.cc/</id>
   
   <author>
@@ -20,23 +20,31 @@
     <link href="http://wangyiwen.cc/2017/05/15/%E4%B8%80%E5%91%A8%E5%B2%81%E4%BA%86/"/>
     <id>http://wangyiwen.cc/2017/05/15/一周岁了/</id>
     <published>2017-05-15T04:35:21.000Z</published>
-    <updated>2017-05-15T04:54:25.000Z</updated>
+    <updated>2017-05-15T07:21:52.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;video id=&quot;my_video_1&quot; class=&quot;video-js vjs-default-skin&quot; controls preload=&quot;auto&quot; width=&quot;100%&quot; height=&quot;100%&quot; data-setup=&quot;{}&quot;&gt;&lt;br&gt;    &lt;source id=&quot;my_video_source&quot; src=&quot;&quot; type=&quot;video/x-mp4&quot;&gt;&lt;br&gt;&lt;/video&gt;&lt;/p&gt;
-&lt;p&gt;&lt;center&gt;&lt;font color=&quot;#FF7F50&quot;&gt;我很累的，呜呜…&lt;/font&gt;&lt;/center&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;video id=&quot;my_video_1&quot; class=&quot;video-js vjs-default-skin&quot; controls autoplay preload=&quot;auto&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;br&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;center&gt;&lt;font color=&quot;#FF7F50&quot;&gt;我的周岁视频，我美不美啊！！&lt;/font&gt;&lt;/center&gt;
+
 &lt;script type=&quot;text/javascript&quot;&gt;
-    $(&#39;#my_video_source&#39;).attr(&quot;src&quot;,&quot;http://27.221.98.144/youku/657183BCB714B841D358BA6197/03000801005917ABFF30072CEAA2DA0D82B9F3-AE41-E3C1-60D4-C4C179AA0A7D.mp4?sid=04948210759211209ba16&amp;ctype=12&amp;ccode=0401&amp;duration=239&amp;expire=18000&amp;psid=f67578b27a6f777c7d13e8b84b338e5e&amp;ups_client_netip=114.242.25.134&amp;ups_ts=1494821075&amp;ups_userid=&amp;utid=wDSSEcAEN3QCAd3fuaCasvVm&amp;vid=XMjc2MzM3MjUyNA%3D%3D&amp;vkey=A25546903f436b0bea09da3e5a37f3ea5&quot;);
+
+$(function(){
+    getVideoUrl({videoType:10,vid:&#39;XMjc2MzM3MjUyNA==&#39;})
+});
+
 &lt;/script&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;video id=&quot;my_video_1&quot; class=&quot;video-js vjs-default-skin&quot; controls preload=&quot;auto&quot; width=&quot;100%&quot; height=&quot;100%&quot; data-setup=&quot;{}&quot;&gt;&lt;br&gt;    &lt;sour
+      &lt;p&gt;&lt;video id=&quot;my_video_1&quot; class=&quot;video-js vjs-default-skin&quot; controls autoplay preload=&quot;auto&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;br&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;ce
     
     </summary>
     
     
-      <category term="周岁 视频" scheme="http://wangyiwen.cc/tags/%E5%91%A8%E5%B2%81-%E8%A7%86%E9%A2%91/"/>
+      <category term="视频" scheme="http://wangyiwen.cc/tags/%E8%A7%86%E9%A2%91/"/>
+    
+      <category term="周岁" scheme="http://wangyiwen.cc/tags/%E5%91%A8%E5%B2%81/"/>
     
   </entry>
   
